@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/meizu18/9.3.0.0/cn/20220812160417/8f02f0b4/update.zip
+  ROM_URL: https://cowtransfer.com/s/ae871e45852849
   ROM_NAME: Generic
   BUILD_TYPE: Aonly
   TZ: Asia/Shanghai
