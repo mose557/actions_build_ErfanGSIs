@@ -16,7 +16,7 @@ on:
 env:
   ROM_URL: https://cowtransfer.com/s/ae871e45852849
   ROM_NAME: Generic
-  BUILD_TYPE: Aonly
+  BUILD_TYPE: AB
   TZ: Asia/Shanghai
 
 jobs:
